@@ -1,0 +1,17 @@
+{
+    "name": "de.christian-stockigner.adaptiveloadingscreen",
+    "displayName": "Adaptive Loading Screen",
+    "description": "Customizable Loading Screen for Unity",
+    "version": "1.0.0",
+    "unity": "2021.3",
+    "author": "Chrisitan Stockinger",
+    "homepage": "https://github.com/christian-stockinger/Adaptive-Loading-Screen",
+    "dependencies": {},
+    "samples": [
+      {
+          "displayName": "Basic Menu",
+          "description": "Contains an Samples for loading to an Menu",
+          "path": "Samples~/BasicMenu"
+      }
+  ]
+  }
