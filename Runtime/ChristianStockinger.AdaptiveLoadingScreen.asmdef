@@ -1,0 +1,16 @@
+{
+    "name": "ChristianStockinger.AdaptiveLoadingScreen",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f90f0c563959e3b47bbbb6b5ba3a29d3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
