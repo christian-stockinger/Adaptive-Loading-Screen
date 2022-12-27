@@ -8,10 +8,10 @@
     "homepage": "https://github.com/christian-stockinger/Adaptive-Loading-Screen",
     "dependencies": {},
     "samples": [
-      {
-          "displayName": "Basic Menu",
-          "description": "Contains an Samples for loading to an Menu",
-          "path": "Samples~/BasicMenu"
-      }
-  ]
-  }
+        {
+            "displayName": "Basic Menu",
+            "description": "Contains an Samples for loading to an Menu",
+            "path": "Samples~/BasicMenu"
+        }
+    ]
+}
